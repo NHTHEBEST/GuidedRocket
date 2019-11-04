@@ -1,0 +1,19 @@
+{
+  "name":"GuidedRocket",
+  "description":"A Rocket Guiding library",
+  "keywords":"async,tcp",
+  "authors":
+  {
+    "name": "NHTHEBEST",
+    "maintainer": true
+  },
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/me-no-dev/ESPAsyncTCP.git"
+  },
+  "version": "0.0.0",
+  "license": "MIT",
+  "frameworks": "arduino",
+  "platforms": "*" 
+}
